@@ -25,7 +25,7 @@ SECRET_KEY = 'x*f=le^obmd063=$vi%0r-1i)fu*5#+4&a0uz18btaybh7ckzx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'herejip.pythonanywhere.com' ]
 
 
 # Application definition
